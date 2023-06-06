@@ -1,0 +1,91 @@
+.main {
+  margin-top: 1em;
+}
+
+.center {
+  justify-content: center;
+  padding: 13px;
+}
+
+.item {
+  padding: 15px 0px !important;
+}
+
+i.icon {
+  float: right;
+  cursor: pointer;
+}
+
+.backButton{
+  text-align: center;
+}
+
+.header{
+  padding:60px;
+  background-image: linear-gradient(to left, #28b862, #b393d3 );
+  text-align: center;
+}
+
+.headermain{
+  padding: 1px;
+  background-image: linear-gradient(to left, #28b862, #b393d3 );
+  text-align: center;
+}
+.toplink{
+  padding: 10px;
+  justify-content: left;
+}
+
+.bottomlink{
+  padding: 10px;
+}
+
+.buttonAdd{
+  color: aqua;
+  background-color: #b393d3;
+}
+
+.content {
+  text-align: center;
+}
+
+.header8{
+  background-color: #b393d3;
+}
+.description{
+  background-color: #1dcda4;
+}
+
+.description2{
+  background-color: #7682e9;
+}
+.description3{
+  background-color: #c5456c;
+}
+
+.description4{
+  background-color: #66ea0f;
+}
+.description5{
+  background-color: #f0f00e;
+}
+
+.description6{
+  background-color: #e39c0f;
+}
+
+.description7{
+  background-color: #61c5e9;
+}
+
+.pic{
+  background-size: cover;
+}
+
+
+
+
+
+
+
+

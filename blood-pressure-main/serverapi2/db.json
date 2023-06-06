@@ -1,0 +1,247 @@
+{
+  "clients": [
+    {
+      "id": "x"
+    },
+    {
+      "id": "53c7939b-c60d-4b3b-b813-6779a1b0f656",
+      "name": "Tim",
+      "username": "timmy",
+      "email": "tim@gmail.com",
+      "password": "timtim"
+    },
+    {
+      "id": "264cfefd-b718-40b9-b5e6-6e276ea29483",
+      "name": "Max",
+      "username": "maxy",
+      "email": "max@gmail.com",
+      "password": "maxmax"
+    },
+    {
+      "id": "933a7919-5a3e-48b1-864f-1a094926cb91",
+      "name": "shawn",
+      "username": "shawnp",
+      "email": "shawn@gmail.com",
+      "password": "shawnshawn"
+    },
+    {
+      "id": "8e18968f-d53a-4b1d-9426-3921af87c000",
+      "name": "shawn",
+      "username": "shawnp",
+      "email": "shawn@gmail.com",
+      "password": "shawnshawn"
+    }
+  ],
+  "bps": [
+    {
+      "id": "bc1b2a4f-7674-47e1-81cc-81c2d6280ed3",
+      "clientId": "264cfefd-b718-40b9-b5e6-6e276ea29483",
+      "date": "2022-12-04T20:17:03.622Z",
+      "systolic": "120",
+      "diastolic": "90",
+      "exerciseTime": "15",
+      "strengthTime": "15",
+      "caloriesConsumedVeggie": "12",
+      "caloriesConsumedGeneral": "12"
+    },
+    {
+      "id": "2c2b1052-bdeb-46b3-8f0c-98f48e1b6d85",
+      "clientId": "264cfefd-b718-40b9-b5e6-6e276ea29483",
+      "date": "2022-12-04T20:17:26.027Z",
+      "systolic": "120",
+      "diastolic": "80",
+      "exerciseTime": "50",
+      "strengthTime": "50",
+      "caloriesConsumedVeggie": "50",
+      "caloriesConsumedGeneral": "60"
+    },
+    {
+      "id": "40015552-4da2-4157-9f5c-efaf72e66df9",
+      "clientId": "8e18968f-d53a-4b1d-9426-3921af87c000",
+      "date": "2022-12-04T20:37:06.043Z",
+      "systolic": "120",
+      "diastolic": "90",
+      "exerciseTime": "1",
+      "strengthTime": "1",
+      "caloriesConsumedVeggie": "1",
+      "caloriesConsumedGeneral": "1"
+    },
+    {
+      "id": "9bba7aae-7974-41b2-b724-84ac445f3233",
+      "clientId": "8e18968f-d53a-4b1d-9426-3921af87c000",
+      "date": "2022-12-04T20:37:46.732Z",
+      "systolic": "120",
+      "diastolic": "90",
+      "exerciseTime": "0",
+      "strengthTime": "0",
+      "caloriesConsumedVeggie": "12",
+      "caloriesConsumedGeneral": "14"
+    },
+    {
+      "id": "3d365a81-2836-40a8-b5a9-744e419bfded",
+      "clientId": "53c7939b-c60d-4b3b-b813-6779a1b0f656",
+      "date": "2022-12-05T03:56:50.548Z",
+      "systolic": "123",
+      "diastolic": "33",
+      "exerciseTime": "2",
+      "strengthTime": "2",
+      "caloriesConsumedVeggie": "23",
+      "caloriesConsumedGeneral": "44"
+    },
+    {
+      "id": "b800e789-9b8d-41f9-9b6e-b8332cbc9f1f",
+      "clientId": "53c7939b-c60d-4b3b-b813-6779a1b0f656",
+      "date": "2022-12-05T03:56:57.706Z",
+      "systolic": "122",
+      "diastolic": "31",
+      "exerciseTime": "31",
+      "strengthTime": "12",
+      "caloriesConsumedVeggie": "12",
+      "caloriesConsumedGeneral": "33"
+    },
+    {
+      "id": "e488df57-a755-482c-a9dd-f45d8846f3d9",
+      "clientId": "53c7939b-c60d-4b3b-b813-6779a1b0f656",
+      "date": "2022-12-05T04:09:10.067Z",
+      "systolic": "222",
+      "diastolic": "333",
+      "exerciseTime": "33",
+      "strengthTime": "33",
+      "caloriesConsumedVeggie": "33",
+      "caloriesConsumedGeneral": "33"
+    }
+  ],
+  "appointments": [
+    {
+      "clientId": "53c7939b-c60d-4b3b-b813-6779a1b0f656",
+      "year": "2022",
+      "month": "11",
+      "day": "26",
+      "hour": "22",
+      "mins": "22",
+      "nameOfProvider": "ER",
+      "typeOfProvider": "ER",
+      "id": 1
+    },
+    {
+      "clientId": "53c7939b-c60d-4b3b-b813-6779a1b0f656",
+      "date": "2023-01-01T08:00:00.000Z",
+      "year": "2022",
+      "month": "12",
+      "day": "1",
+      "hour": "12",
+      "mins": "12",
+      "nameOfProvider": "DR",
+      "typeOfProvider": "DR",
+      "id": 2
+    },
+    {
+      "clientId": "264cfefd-b718-40b9-b5e6-6e276ea29483",
+      "date": "2023-01-04T08:00:00.000Z",
+      "year": "2022",
+      "month": "12",
+      "day": "4",
+      "hour": "12",
+      "mins": "12",
+      "nameOfProvider": "DR",
+      "typeOfProvider": "DR",
+      "id": 3
+    },
+    {
+      "clientId": "264cfefd-b718-40b9-b5e6-6e276ea29483",
+      "date": "2023-01-06T08:00:00.000Z",
+      "year": "2022",
+      "month": "12",
+      "day": "6",
+      "hour": "12",
+      "mins": "12",
+      "nameOfProvider": "DR",
+      "typeOfProvider": "DR",
+      "id": 4
+    },
+    {
+      "clientId": "264cfefd-b718-40b9-b5e6-6e276ea29483",
+      "date": "2023-01-03T08:00:00.000Z",
+      "year": "2022",
+      "month": "12",
+      "day": "3",
+      "hour": "12",
+      "mins": "12",
+      "nameOfProvider": "Dr",
+      "typeOfProvider": "Dr",
+      "id": 5
+    },
+    {
+      "clientId": "53c7939b-c60d-4b3b-b813-6779a1b0f656",
+      "date": "2023-01-07T08:00:00.000Z",
+      "year": "2022",
+      "month": "12",
+      "day": "7",
+      "hour": "12",
+      "mins": "30",
+      "nameOfProvider": "Dr.Ron",
+      "typeOfProvider": "Cardiologist",
+      "id": 6
+    },
+    {
+      "clientId": "53c7939b-c60d-4b3b-b813-6779a1b0f656",
+      "date": "2023-01-06T08:00:00.000Z",
+      "year": "2022",
+      "month": "12",
+      "day": "6",
+      "hour": "12",
+      "mins": "30",
+      "nameOfProvider": "ER",
+      "typeOfProvider": "ER",
+      "id": 7
+    },
+    {
+      "clientId": "53c7939b-c60d-4b3b-b813-6779a1b0f656",
+      "date": "2023-01-09T08:00:00.000Z",
+      "year": "2022",
+      "month": "12",
+      "day": "9",
+      "hour": "12",
+      "mins": "30",
+      "nameOfProvider": "ER",
+      "typeOfProvider": "ER",
+      "id": 8
+    },
+    {
+      "clientId": "8e18968f-d53a-4b1d-9426-3921af87c000",
+      "date": "2023-01-07T08:00:00.000Z",
+      "year": "2022",
+      "month": "12",
+      "day": "7",
+      "hour": "12",
+      "mins": "30",
+      "nameOfProvider": "DR",
+      "typeOfProvider": "DR",
+      "id": 14
+    },
+    {
+      "clientId": "8e18968f-d53a-4b1d-9426-3921af87c000",
+      "date": "2023-01-05T08:00:00.000Z",
+      "year": "2022",
+      "month": "12",
+      "day": "5",
+      "hour": "12",
+      "mins": "30",
+      "nameOfProvider": "DR",
+      "typeOfProvider": "DR",
+      "id": 15
+    },
+    {
+      "clientId": "53c7939b-c60d-4b3b-b813-6779a1b0f656",
+      "date": "2023-01-05T08:00:00.000Z",
+      "year": "2022",
+      "month": "12",
+      "day": "5",
+      "hour": "12",
+      "mins": "20",
+      "nameOfProvider": "DR",
+      "typeOfProvider": "DR",
+      "id": 16
+    }
+  ]
+}
